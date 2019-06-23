@@ -4,7 +4,7 @@
 
 ## 使用方法：
 
-输入要下载的文档URL并回车。
+下载BaiduWenkuDownloads.exe，输入要下载的文档URL并回车。
 
 ## 工具说明：
 
